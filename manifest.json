@@ -1,0 +1,7 @@
+{
+    "name": "anti spoiler spam",
+    "version": "v1.0.0",
+    "description": "remove all spoiler spam text from messages sent",
+    "author": "Benny",
+    "license": "MIT"
+}
